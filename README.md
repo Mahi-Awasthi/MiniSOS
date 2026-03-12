@@ -1,17 +1,20 @@
 # MiniSOS 🎮✨
 
-**MiniSOS** is a child-friendly educational app designed for the Swift Student Challenge. It empowers children by teaching them essential safety skills in a fun, game-like environment.
+**MiniSOS** is a fun way for kids to learn safety skills! Built for the Swift Student Challenge, it helps children stay safe and confident.
 
-## 🌟 Purpose
-The core mission of MiniSOS is to build confidence and safety awareness. It helps children answer two critical questions:
-1. **"What if I am lost?"** — Knowing who to ask for help and staying put.
-2. **"What is my family's phone number?"** — Practicing memorization through structured repetition.
+## What's Inside?
+- **Stay Safe Stories**: Interactive scenarios like "What if I am lost?".
+- **Number Fun**: Easy way to memorize family phone numbers.
+- **Voice Help**: The app talks to you while you learn!
 
-## 🚀 Key Features
-- **Interactive Scenarios**: Large, high-contrast stories with voice feedback.
-- **Smart Memorization**: Automated 3-3-4 pattern chunking for 10-digit numbers.
-- **"Game On!" UI**: Bold outlines and a vibrant, child-friendly aesthetic.
+## Screenshots
+<p align="center">
+  <img src="Screenshots/1.png" width="200" />
+  <img src="Screenshots/2.png" width="200" />
+  <img src="Screenshots/3.png" width="200" />
+  <img src="Screenshots/4.png" width="200" />
+  <img src="Screenshots/5.png" width="200" />
+</p>
 
 ## 🛠️ Built With
-- **SwiftUI** & **AVFoundation**
-- 100% Offline & Privacy Focused
+- **SwiftUI** (100% Offline & Private)
